@@ -5,3 +5,4 @@
 
 ## Algorithm
 - [Primality test](https://github.com/cmj-dev/TIL/blob/main/Algorithm/primality%20test.md)
+- [Greatest Common Divisor](https://github.com/cmj-dev/TIL/blob/main/Algorithm/gcd.md)
