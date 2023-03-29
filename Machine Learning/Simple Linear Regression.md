@@ -73,13 +73,19 @@ By t-statistic value, we could calculate p-value which represent the probability
 
 ## **Accurancy of the Model**
 ### **Residual Standard Error(RSE)**
+
 $$ RSE = \sqrt{\frac{1}{n - 2}RSS}$$
+
 By Residual Standard Error, we could estimate how well the model fits with dataset.
 
 ### **$R^2$ statistic**
+
 $$ R^2 = \frac{TSS - RSS}{TSS} $$
+
 TSS(Total Sum of Squares) is $\sum(y_i-\bar y)^2$.
+
 <img src="./img/IMG_0135.PNG" width='500'>
+
 So $R^2$ measures the proportion of variability in $Y$ that can be explained using $X$
 
 RSS will always less or equal to TSS so $R^2$ is in range of 0 to 1.
