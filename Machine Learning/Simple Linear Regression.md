@@ -1,7 +1,9 @@
 # **Simple Linear Regression**
 
 In the following expression when we regress $Y$ onto $X$
+
 $$ Y \approx \beta_0 + \beta_1X $$
+
 $Y$ is true value, $X$ is a predictor, $\beta_0$ is intercept and $\beta_1$ is slope.
 
 
@@ -17,6 +19,7 @@ To train the model, we have to find $\beta_1$ and $\beta_0$ which could minimize
 > *i* th residual can be represented like this; $e_i = y_i - \hat{y_i}$
 >
 >So, Residual sum of squares is 
+>
 >$$ RSS = \sum_{i=1}^{n} e_i^2 = \sum_{i=1}^{n}(y_i -\hat{\beta_0} - \hat{\beta_1}x_i)^2$$
 
 ## **How to check the accuracy of our model**
@@ -61,6 +64,7 @@ t-statistic depends on two values
 $SE(\hat\beta)$ (standard error of $\hat\beta$)
 
 So we can calculate t-statistic by this expression
+
 $$ t = \frac {\hat{\beta_1} - 0}{SE(\hat\beta)} $$
 
 By t-statistic value, we could calculate p-value which represent the probability of $\hat{\beta_1}$ is 0.

@@ -6,3 +6,6 @@
 ## Algorithm
 - [Primality test](https://github.com/cmj-dev/TIL/blob/main/Algorithm/primality%20test.md)
 - [Greatest Common Divisor](https://github.com/cmj-dev/TIL/blob/main/Algorithm/gcd.md)
+
+## Machine Learning
+- [Simple Linear Regression](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/Simple%20Linear%20Regression.md)
