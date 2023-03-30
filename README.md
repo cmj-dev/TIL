@@ -7,5 +7,9 @@
 - [Primality test](https://github.com/cmj-dev/TIL/blob/main/Algorithm/primality%20test.md)
 - [Greatest Common Divisor](https://github.com/cmj-dev/TIL/blob/main/Algorithm/gcd.md)
 
+## Linear Algebra
+- [Inner Product](https://github.com/cmj-dev/TIL/blob/main/Linear%20Algebra/Inner%20Product.md)
+- [Linear Function & Affine Function](https://github.com/cmj-dev/TIL/blob/main/Linear%20Algebra/Linear%20Function%20%26%20Affine%20Function.md)
+
 ## Machine Learning
 - [Simple Linear Regression](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/Simple%20Linear%20Regression.md)
