@@ -12,8 +12,13 @@ sum(x*y)
 
 ## Properties of inner product
 - **Commutativity**
+
 $$ a^Tb = b^Ta $$
+
 - **Associativity** (with scalar multiplication)
+
 $$ (\gamma a)^Tb = \gamma (a^Tb) $$
+
 - **Distributivity**
-$$ (a+b)^Tc = a^Tc + b^Tc
+
+$$ (a+b)^Tc = a^Tc + b^Tc $$
