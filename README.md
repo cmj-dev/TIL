@@ -10,6 +10,9 @@
 ## Linear Algebra
 - [Inner Product](https://github.com/cmj-dev/TIL/blob/main/Linear%20Algebra/Inner%20Product.md)
 - [Linear Function & Affine Function](https://github.com/cmj-dev/TIL/blob/main/Linear%20Algebra/Linear%20Function%20%26%20Affine%20Function.md)
-
+- [Taylor Approximation](https://github.com/cmj-dev/TIL/blob/main/Linear%20Algebra/Taylor%20approximation.ipynb)
+- [Chebyshev inequality](https://github.com/cmj-dev/TIL/blob/main/Linear%20Algebra/Chebyshev%20inequality.ipynb)
+- [Standard deviation](https://github.com/cmj-dev/TIL/blob/main/Linear%20Algebra/Standard%20deviation.ipynb)
+- [Norm and Distance](https://github.com/cmj-dev/TIL/blob/main/Linear%20Algebra/Norm%20and%20Distance.ipynb)
 ## Machine Learning
 - [Simple Linear Regression](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/Simple%20Linear%20Regression.md)
