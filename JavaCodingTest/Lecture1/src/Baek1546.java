@@ -20,3 +20,9 @@ public class Baek1546 {
         System.out.println(sum/N);
     }
 }
+
+abstract class A {
+    abstract static void methodA() {
+        
+    }
+}
