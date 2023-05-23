@@ -20,8 +20,14 @@
 - [QR Factorization](https://github.com/cmj-dev/TIL/blob/main/Linear%20Algebra/QR_factorization.ipynb)
 
 ## Machine Learning
-- [Simple Linear Regression](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/Simple%20Linear%20Regression.md)
-- [Multiple Linear Regression & etc](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/Multiple%20Linear%20Regression%20%26%20Non%20Linear.md)
-- [Classification](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/Classification(Logistic%20Regression).md)
-- [Cross_Validation](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/Cross_Validation.md)
-- [Bootstrap](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/Bootstrap.md)
+- ### Linear Regression
+    - [Simple Linear Regression](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/Simple%20Linear%20Regression.md)
+    - [Multiple Linear Regression & etc](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/Multiple%20Linear%20Regression%20%26%20Non%20Linear.md)
+- ### [Classification](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/Classification(Logistic%20Regression).md)
+- ### Resampling Methods
+    - [Cross_Validation](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/Cross_Validation.md)
+    - [Bootstrap](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/Bootstrap.md)
+- ### [Model Selection and Regularization](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/ModelSelection.md)
+    - [Subset Selection]()
+    - [Shrinkage]()
+    - [Dimension Reduction]()
