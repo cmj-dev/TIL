@@ -28,6 +28,6 @@
     - [Cross_Validation](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/Cross_Validation.md)
     - [Bootstrap](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/Bootstrap.md)
 - ### [Model Selection and Regularization](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/ModelSelection.md)
-    - [Subset Selection]()
+    - [Subset Selection](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/SubsetSelection.md)
     - [Shrinkage]()
     - [Dimension Reduction]()
