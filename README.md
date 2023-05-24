@@ -29,5 +29,5 @@
     - [Bootstrap](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/Bootstrap.md)
 - ### [Model Selection and Regularization](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/ModelSelection.md)
     - [Subset Selection](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/SubsetSelection.md)
-    - [Shrinkage]()
+    - [Shrinkage](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/ShrinkageMethods.md)
     - [Dimension Reduction]()
