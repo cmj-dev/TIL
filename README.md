@@ -4,6 +4,7 @@
 - [1주차 자바 가상 머신](https://github.com/cmj-dev/TIL/blob/main/객체지향프로그래밍/자바%20가상%20머신.md)
 
 ## Algorithm
+- [Binary Search](https://github.com/cmj-dev/TIL/blob/main/Algorithm/binarySearch.md)
 - [Primality test](https://github.com/cmj-dev/TIL/blob/main/Algorithm/primality%20test.md)
 - [Greatest Common Divisor](https://github.com/cmj-dev/TIL/blob/main/Algorithm/gcd.md)
 
