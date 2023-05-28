@@ -34,8 +34,8 @@ Here is the python code which emplements binary search.
 
 ### There are examples to apply this alogrithm.
 - [33. Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/description/?envType=study-plan&id=algorithm-ii)
-- [Answer](https://github.com/cmj-dev/alogStudy/blob/master/leetCode/33.py)
+    - [Answer](https://github.com/cmj-dev/alogStudy/blob/master/leetCode/33.py)
 - [34. Find First and Last Position of Element in Sorted Array](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/)
-- [Answer](https://github.com/cmj-dev/alogStudy/blob/master/leetCode/34.py)
+    - [Answer](https://github.com/cmj-dev/alogStudy/blob/master/leetCode/34.py)
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/?envType=study-plan&id=algorithm-ii)
-- [Answer](https://github.com/cmj-dev/alogStudy/blob/master/leetCode/74.py)
+    - [Answer](https://github.com/cmj-dev/alogStudy/blob/master/leetCode/74.py)
