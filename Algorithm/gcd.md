@@ -24,7 +24,7 @@ def gcd(a, b):
         return gcd(b, a % b)
 ```
 
-### There is a problem to apply this alogrithm.
+### There are examples to apply this alogrithm.
 
 - [13241. 최소공배수](https://www.acmicpc.net/problem/13241)
 

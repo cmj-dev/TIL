@@ -23,7 +23,7 @@ So for this case, we can apply [sieve of Eratosthenes](https://en.wikipedia.org/
 
 ![sieve of Eratosthenes gif](./img/Sieve_of_Eratosthenes_animation.gif)
 
-There is a problem to apply this alogrithm.
+### There is a example to apply this alogrithm.
 
 [4948. 베르트랑 공준](https://www.acmicpc.net/problem/4948)
 
