@@ -39,3 +39,11 @@ Here is the python code which emplements binary search.
     - [Answer](https://github.com/cmj-dev/alogStudy/blob/master/leetCode/34.py)
 - [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/?envType=study-plan&id=algorithm-ii)
     - [Answer](https://github.com/cmj-dev/alogStudy/blob/master/leetCode/74.py)
+
+## Binary Search Applications
+
+- [153. Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/description/?envType=study-plan&id=algorithm-ii)
+    - [Answer](https://github.com/cmj-dev/alogStudy/blob/master/leetCode/153.py)
+
+- [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
+    - [Answer](https://github.com/cmj-dev/alogStudy/blob/master/leetCode/162.py)
