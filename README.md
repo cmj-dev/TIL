@@ -32,8 +32,8 @@
     - [Subset Selection](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/SubsetSelection.md)
     - [Shrinkage](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/ShrinkageMethods.md)
     - [Dimension Reduction](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/DimensionReduction.md)
-- ### [Unsuperviesd Learning]()
-    - [PCA]()
+- ### Unsuperviesd Learning
+    - [PCA](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/PCA.md)
     - [K-means Clustering]()
     - [Hierachical Clustering]()
 - ### [Support Vector Machine]()
