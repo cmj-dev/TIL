@@ -15,6 +15,8 @@ Because of the **exponential complexity**, we use sub-optimal way to get best su
 ## 2. Stepwise Selection
 We use greedy algorithms to solve this exponential complexity in stepwise selection.
 
+With this approach, we could consider only $ \frac{p(p-1)}{2} + 1 $ number of models.
+
 There is two different way to use stepwise selection.
 
 1. ### Forward stepwise selection
@@ -31,6 +33,10 @@ There is two different way to use stepwise selection.
 
 ### **How to measure best number of predictors**
 To measure the best number of predictors, there is 4 method to assume test error.
+
+Beacuse when we use normal $R^2$ or $MSE$, it will give us better value when the number of predictors are increase.
+
+So we use 4 method to measure the best subset of predictors.
 
 In this expressions, $d$ means number of predictors.
 
