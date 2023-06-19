@@ -34,6 +34,4 @@
     - [Dimension Reduction](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/DimensionReduction.md)
 - ### Unsuperviesd Learning
     - [PCA](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/PCA.md)
-    - [K-means Clustering]()
-    - [Hierachical Clustering]()
-- ### [Support Vector Machine]()
+- ### [Support Vector Machine](https://github.com/cmj-dev/TIL/blob/main/Machine%20Learning/SVM.md)
